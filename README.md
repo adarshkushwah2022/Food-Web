@@ -5,7 +5,7 @@ Information Retrieval Course Project
 
 A project built during our Information Retrieval course.
 
-![alt text](Sample%20Outputs/s1.PNG "Algorithm-Visualizer Home ")
+![alt text](Images/05.PNG "Algorithm-Visualizer Home ")
  
 ## Synopsis
 The recipe retrieval system from food image classification focuses on the categorization of food images into their respective classes and retrieving the recipes from the food image provided by the user. The work also aims to retrieve the recipes from the ingredients provided by the user. If the user is short of some ingredients, the model gives the best recipe to be cooked from those ingredients.  The system provides an interactive user interface for the recipe retrieval from food images as well as from the ingredients provided by the user.
