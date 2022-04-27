@@ -38,7 +38,7 @@ Dataset:
 ```
 ![alt text](Images/2.png "Algorithm-Visualizer Home ")
 
-##How to run the code
+## How to run the code
 1. Run the welcomPage.py file in IDLE and open the link present in the output of the code.
 2. Open the link in the browser.
 3. Now, you can perform the recipe retrieval by providing image or by ingredients by selecting the respective tab on the home page.
