@@ -35,6 +35,7 @@ Dataset:
  Recipe dataset
 
 ```
+![alt text](Images/1.png "Algorithm-Visualizer Home ")
 
 
 ## Contributors
