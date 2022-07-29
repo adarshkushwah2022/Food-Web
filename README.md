@@ -1,5 +1,3 @@
-# IR_Project_Group22
-Information Retrieval Course Project
 # Recipe Retrieval from Food Image Classification
 > Retrive Recipes from Food Images Website
 
@@ -47,7 +45,7 @@ Dataset:
 
 ## Contributors
 
-[Adarsh Singh Kushwah](https://github.com/adarshkushwah21111)
+[Adarsh Singh Kushwah](https://github.com/adarshkushwah2022)
 
 [Akash Rawat](https://github.com/akashrwt7)
 
